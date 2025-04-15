@@ -1,11 +1,12 @@
 ---
 title: "Welcome to My Website"
 author: "Kirin"
-date: "2025-01-24"
+date: "2025-04-15"
 format:
     html:
         theme: journal
         toc: true
 ---
-# Hello, World!
-Welcome to my Quarto website.
+# Hello! Here is Qilin's Website
+Welcome to my personal page.
+
