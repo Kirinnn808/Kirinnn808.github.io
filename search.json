@@ -12,5 +12,26 @@
     "title": "Welcome to My Website",
     "section": "",
     "text": "Hello! Here is Qilin’s Website\nWelcome to my personal page."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page showcases some of my major academic and personal projects. Below are a few examples:\n\n\nDescription: Utilized R Studio and Python to clean, model, and visualize large datasets, helping the organization make data-driven decisions.\nOutcome: Improved decision-making efficiency and received positive feedback from both mentors and industry partners.\n\n\n\nDescription: Performed data mining and analysis on online marketing data to suggest optimization strategies.\nOutcome: Successfully secured additional investment for the subsequent phases of the project."
+  },
+  {
+    "objectID": "project.html#project-example-1-data-analysis-project",
+    "href": "project.html#project-example-1-data-analysis-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Utilized R Studio and Python to clean, model, and visualize large datasets, helping the organization make data-driven decisions.\nOutcome: Improved decision-making efficiency and received positive feedback from both mentors and industry partners."
+  },
+  {
+    "objectID": "project.html#project-example-2-marketing-analytics-project",
+    "href": "project.html#project-example-2-marketing-analytics-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Performed data mining and analysis on online marketing data to suggest optimization strategies.\nOutcome: Successfully secured additional investment for the subsequent phases of the project."
   }
 ]
