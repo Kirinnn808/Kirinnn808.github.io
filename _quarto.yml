@@ -1,13 +1,23 @@
 project:
   type: website
 
+title: "Qilin Zhang's Website"
+author: "Qilin Zhang"
+
 website:
-  title: "Kirinnn808.github.io"
+  favicon: "images/favicon.png"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About"
+      - href: project.qmd
+        text: "Project"
+      - href: cv.qmd
+        text: "CV"
+      - href: contact.qmd
+        text: "Contact"
 
 format:
   html:
@@ -16,6 +26,8 @@ format:
       - brand
     css: styles.css
     toc: true
+
+
 
 
 
