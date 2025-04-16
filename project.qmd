@@ -10,8 +10,11 @@ This page showcases some of my major academic and personal projects. Below are a
 **Description:** Utilized R Studio and Python to clean, model, and visualize large datasets, helping the organization make data-driven decisions.  
 **Outcome:** Improved decision-making efficiency and received positive feedback from both mentors and industry partners.
 
+<img src="project1.png" alt="My Photo" width="200px">
+
 ## Project Example 2: Marketing Analytics Project
 **Description:** Performed data mining and analysis on online marketing data to suggest optimization strategies.  
 **Outcome:** Successfully secured additional investment for the subsequent phases of the project.
 
+<img src="project2.png" alt="My Photo" width="200px">
 
