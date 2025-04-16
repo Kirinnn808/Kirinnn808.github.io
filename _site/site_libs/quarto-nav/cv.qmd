@@ -1,0 +1,26 @@
+---
+title: "CV"
+---
+
+# My Curriculum Vitae
+
+You are welcome to view my detailed CV. Click the link below to download the full PDF version:
+
+[Download CV](CV. QZ.pdf)
+
+## Professional Summary
+I am a graduate business student with a concentration in Business Analytics. I can work independently to solve complex problems while also thriving in team environments. My bilingual abilities (English and Mandarin) allow me to adapt to diverse work situations.
+
+## Core Skills
+- **Data Analysis & Modeling:** Proficient in R and Python for statistical analysis and data visualization.
+- **Technical Proficiency:** Skilled in Microsoft Office Suite and finance software tools.
+- **Communication:** Fluent in English and Mandarin, capable of seamless cross-cultural interaction.
+- **Adaptability:** Efficient at managing large workloads and data processing tasks.
+
+## Internship Experience
+**Wushang Group, Investment Department, China**  
+*May 2024 – July 2024*  
+- Gained insights into the operational model of private equity funds.
+- Engaged in negotiations with potential SME partners and assisted in forecasting development trends for investment decisions.
+
+*For more details, please refer to the full CV available for download.*
