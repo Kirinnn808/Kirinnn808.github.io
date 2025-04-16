@@ -7,6 +7,20 @@
     "text": "I’d love to hear from you! You can reach out to me using any of the methods below:\n\nEmail: qilin808@gmail.com\nLocation: Wuhan, China|Boston, US\nInstagram: kirinnn.nnn"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About Me\nWelcome to my personal website!\nProfessional Introduction:\nI’m Qilin Zhang. I have 4+ years of experience in business analytics in both my undergraduate and graduate studies and specialize in working with data through Excel, R studio and Python, especially in the business marketplace and beyond. In my undergraduate studies, I learned more business-friendly knowledge, and in my graduate studies, I learned R Studio and Python in a systematic way to better fit the current era of analyzing and processing data in the big data era.\n\n\nExperience\n\nUniversity of California-Riverside\nBachelor’s in Business Administration\nRelevant Courses: Decision Analysis, Management Science, Introduction to Computing, Statistics, and Organizational Behavior.\nBoston University\nMaster’s in Applied Business Analytics (in progress)\nRelevant Courses: Marketing Analytics, Data Mining, Quantitative & Qualitative Decision-Making, and Web Analytics."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Hello! Here is Qilin’s Website\nWelcome to my personal page."
+  },
+  {
     "objectID": "project.html",
     "href": "project.html",
     "title": "Projects",
@@ -28,17 +42,31 @@
     "text": "Description: Performed data mining and analysis on online marketing data to suggest optimization strategies.\nOutcome: Successfully secured additional investment for the subsequent phases of the project."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Website",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "Hello! Here is Qilin’s Website\nWelcome to my personal page."
+    "text": "You are welcome to view my detailed CV. Click the link below to download the full PDF version:\nDownload CV\n\n\nI am a graduate business student with a concentration in Business Analytics. I can work independently to solve complex problems while also thriving in team environments. My bilingual abilities (English and Mandarin) allow me to adapt to diverse work situations.\n\n\n\n\nData Analysis & Modeling: Proficient in R and Python for statistical analysis and data visualization.\nTechnical Proficiency: Skilled in Microsoft Office Suite and finance software tools.\nCommunication: Fluent in English and Mandarin, capable of seamless cross-cultural interaction.\nAdaptability: Efficient at managing large workloads and data processing tasks.\n\n\n\n\nWushang Group, Investment Department, China\nMay 2024 – July 2024\n- Gained insights into the operational model of private equity funds. - Engaged in negotiations with potential SME partners and assisted in forecasting development trends for investment decisions.\nFor more details, please refer to the full CV available for download."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "cv.html#professional-summary",
+    "href": "cv.html#professional-summary",
+    "title": "CV",
     "section": "",
-    "text": "About Me\nWelcome to my personal website!\nProfessional Introduction:\nI’m Qilin Zhang. I have 4+ years of experience in business analytics in both my undergraduate and graduate studies and specialize in working with data through Excel, R studio and Python, especially in the business marketplace and beyond. In my undergraduate studies, I learned more business-friendly knowledge, and in my graduate studies, I learned R Studio and Python in a systematic way to better fit the current era of analyzing and processing data in the big data era.\n\n\nExperience\n\nUniversity of California-Riverside\nBachelor’s in Business Administration\nRelevant Courses: Decision Analysis, Management Science, Introduction to Computing, Statistics, and Organizational Behavior.\nBoston University\nMaster’s in Applied Business Analytics (in progress)\nRelevant Courses: Marketing Analytics, Data Mining, Quantitative & Qualitative Decision-Making, and Web Analytics."
+    "text": "I am a graduate business student with a concentration in Business Analytics. I can work independently to solve complex problems while also thriving in team environments. My bilingual abilities (English and Mandarin) allow me to adapt to diverse work situations."
+  },
+  {
+    "objectID": "cv.html#core-skills",
+    "href": "cv.html#core-skills",
+    "title": "CV",
+    "section": "",
+    "text": "Data Analysis & Modeling: Proficient in R and Python for statistical analysis and data visualization.\nTechnical Proficiency: Skilled in Microsoft Office Suite and finance software tools.\nCommunication: Fluent in English and Mandarin, capable of seamless cross-cultural interaction.\nAdaptability: Efficient at managing large workloads and data processing tasks."
+  },
+  {
+    "objectID": "cv.html#internship-experience",
+    "href": "cv.html#internship-experience",
+    "title": "CV",
+    "section": "",
+    "text": "Wushang Group, Investment Department, China\nMay 2024 – July 2024\n- Gained insights into the operational model of private equity funds. - Engaged in negotiations with potential SME partners and assisted in forecasting development trends for investment decisions.\nFor more details, please refer to the full CV available for download."
   }
 ]
